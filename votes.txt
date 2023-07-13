@@ -1,0 +1,507 @@
+Pedro Uczai 21
+Geraldo Resende 22
+Helder Salomão 23
+Filipe Barros 13
+Ana Paula Lima 19
+Mário Negromonte Jr. 21
+Júnior Ferrari 23
+Fausto Pinato 23
+Otoni de Paula 22
+João Leão 24
+Maria Arraes 24
+Ricardo Abrão 21
+Bohn Gass 21
+Diego Garcia 21
+Delegada Ione 23
+Waldemar Oliveira 23
+David Soares 22
+Célia Xakriabá 23
+Laura Carneiro 24
+Celso Sabino 19
+Aécio Neves 22
+Keniston Braga 24
+Pastor Eurico 24
+Arnaldo Jardim 17
+Bruno Farias 23
+Prof. Reginaldo Veras 21
+Alexandre Leite 18
+Caroline de Toni 24
+Amanda Gentil 24
+Marreca Filho 18
+Osmar Terra 24
+Toninho Wandscheer 24
+Dayany Bittencourt 24
+Fernando Mineiro 20
+Marcos Tavares 24
+Otto Alencar Filho 22
+Capitão Alberto Neto 22
+Jefferson Campos 22
+Daniel Barbosa 23
+Pedro Lupion 18
+Cabo Gilberto Silva 23
+Sóstenes Cavalcante 24
+Carlos Zarattini 23
+Julio Arcoverde 22
+Dr. Jaziel 20
+Ivan Valente 24
+Alencar Santana 22
+Daniel Agrobom 22
+Mendonça Filho 24
+Nely Aquino 24
+Samuel Viana 24
+Célio Silveira 23
+Camila Jara 22
+Reginete Bispo 12
+Afonso Hamm 22
+Joseildo Ramos 23
+Fausto Santos Jr. 22
+Giacobo 21
+Roseana Sarney 23
+Márcio Honaiser 22
+Sargento Gonçalves 23
+Delegado Palumbo 24
+Zé Silva 20
+Ruy Carneiro 24
+Gilson Marques 23
+Waldenor Pereira 21
+Luciano Azevedo 20
+Ricardo Maia 22
+Defensor Stélio Dener 22
+Pedro Paulo 16
+Romero Rodrigues 23
+Daniel Trzeciak 23
+Marcelo Lima 19
+Mario Frias 22
+Helena Lima 23
+Pedro Aihara 23
+Rodrigo Estacho 22
+Eduardo da Fonte 24
+Felipe Carreras 23
+Geraldo Mendes 17
+Newton Cardoso Jr 22
+Nikolas Ferreira 22
+Claudio Cajado 22
+Félix Mendonça Júnior 23
+Alberto Mourão 22
+Junior Lourenço 10
+AJ Albuquerque 21
+Washington Quaquá 24
+José Medeiros 23
+Marcelo Crivella 21
+Josivaldo JP 22
+Dani Cunha 23
+Dr. Fernando Máximo 23
+Ely Santos 22
+Misael Varella 19
+Ricardo Silva 23
+Leônidas Cristino 23
+Luciano Vieira 21
+Bacelar 22
+Júlio Cesar 22
+José Priante 20
+Dagoberto Nogueira 24
+Coronel Ulysses 22
+Lêda Borges 23
+Amália Barros 24
+Augusto Coutinho 23
+André Janones 24
+Sanderson 22
+Emidinho Madeira 21
+Evair Vieira de Melo 20
+Miguel Lombardi 23
+Pezenti 23
+Clarissa Tércio 20
+Carlos Chiodini 18
+Jadyel Alencar 20
+Eros Biondini 22
+Greyce Elias 23
+Alfredinho 24
+Odair Cunha 23
+Acácio Favacho 20
+Silvia Waiãpi 24
+Luciano Ducci 20
+Iza Arruda 24
+Pompeo de Mattos 23
+Nicoletti 24
+Mauro Benevides Filho 24
+Roberto Monteiro 24
+Mauricio Marcon 23
+Glaustin da Fokus 20
+Rogério Correia 24
+Flavinha 23
+Alexandre Guimarães 16
+Olival Marques 23
+Jorge Goetten 24
+Delegado Fabio Costa 23
+Dandara 24
+Hugo Leal 21
+Tiririca 19
+Gustavo Gayer 24
+Delegada Adriana Accorsi 23
+Abilio Brunini 23
+André Fernandes 21
+Vermelho 20
+João Carlos Bacelar 14
+Chiquinho Brazão 20
+General Pazuello 23
+Pedro Campos 23
+Wellington Roberto 15
+Pedro Westphalen 24
+Zezinho Barbary 24
+Ricardo Salles 21
+Antonio Brito 22
+Rodrigo Valadares 23
+Zé Trovão 23
+Marussa Boldrin 22
+Fernando Monteiro 24
+Domingos Neto 21
+Jorge Braz 22
+Luiz Gastão 21
+Reginaldo Lopes 22
+Paulo Freire Costa 23
+Igor Timo 22
+Mauricio do Vôlei 11
+Paulo Litro 23
+Clodoaldo Magalhães 20
+Robinson Faria 23
+Antonio Carlos Rodrigues 24
+Lázaro Botelho 16
+Zeca Dirceu 22
+Rubens Pereira Júnior 22
+Reinhold Stephanes 20
+Augusto Puppio 23
+Rodrigo Gambale 24
+Paulão 22
+Pinheirinho 22
+Dr. Victor Linhalis 23
+Albuquerque 23
+Amom Mandel 23
+Márcio Biolchi 21
+Daniela Reinehr 24
+Alex Santana 18
+Rafael Brito 20
+Dr. Zacharias Calil 24
+Lula da Fonte 23
+Maria do Rosário 23
+Luciano Bivar 14
+Vinicius Carvalho 22
+Airton Faleiro 20
+Magda Mofatto 24
+Duda Ramos 21
+Delegado Paulo Bilynskyj 23
+Damião Feliciano 23
+Reimont 24
+Rosângela Moro 21
+Sargento Fahur 24
+Flávia Morais 24
+Ricardo Guidi 20
+Elcione Barbalho 22
+Eduardo Velloso 19
+Adilson Barroso 19
+Miguel Ângelo 22
+Carlos Jordy 19
+Delegado Éder Mauro 19
+Paulo Alexandre Barbosa 22
+Daniel Almeida 20
+Átila Lins 18
+Stefano Aguiar 9
+Luiz Philippe de Orleans e Bragança 20
+Luciano Amaral 24
+Eriberto Medeiros 23
+Jonas Donizette 22
+Lucas Redecker 24
+Mersinho Lucena 20
+Diego Coronel 22
+Pedro Lucas Fernandes 21
+Aureo Ribeiro 22
+Rodolfo Nogueira 19
+Josias Gomes 21
+Hercílio Coelho Diniz 24
+Gilvan Maximo 22
+Welter 22
+José Nelto 19
+Zé Neto 22
+Dal Barreto 24
+Florentino Neto 23
+Ana Paula Leão 24
+Rafael Prudente 24
+Coronel Assis 20
+Fábio Macedo 23
+Paulo Magalhães 23
+Moses Rodrigues 21
+Rafael Simoes 24
+Dra. Alessandra Haber 20
+Capitão Alden 21
+Coronel Telhada 23
+Isnaldo Bulhões Jr. 20
+Marco Brasil 22
+Ricardo Ayres 24
+Diego Andrade 19
+Fabio Reis 22
+Da Vitoria 23
+Natália Bonavides 23
+Sargento Portugal 24
+Luis Tibé 21
+Pr. Marco Feliciano 24
+Lebrão 20
+Castro Neto 22
+Aliel Machado 23
+Marcio Alvino 21
+Orlando Silva 21
+Jeferson Rodrigues 24
+Gleisi Hoffmann 22
+Dimas Fabiano 24
+Wilson Santiago 23
+André Ferreira 20
+Messias Donato 24
+Delegado Ramagem 24
+Antônio Doido 24
+Raimundo Costa 20
+Icaro de Valmir 23
+Luiz Couto 24
+Marcon 23
+Pastor Gil 14
+Celso Russomanno 20
+Luiza Erundina 24
+Marcelo Moraes 19
+Márcio Marinho 24
+Hugo Motta 20
+Sergio Souza 23
+Paulo Foletto 24
+Paulinho Freire 20
+Fabio Schiochet 24
+Célio Studart 23
+Josimar Maranhãozinho 20
+Delegado Caveira 24
+José Guimarães 24
+Amaro Neto 21
+Talíria Petrone 21
+Filipe Martins 23
+Dorinaldo Malafaia 22
+Andreia Siqueira 21
+Leo Prates 24
+Túlio Gadêlha 22
+Gerlen Diniz 23
+Arthur Oliveira Maia 19
+Julia Zanatta 24
+Professora Goreth 23
+Carlos Gomes 21
+Luiz Antônio Corrêa 24
+Roberto Duarte 23
+Cristiane Lopes 24
+Luciano Alves 21
+Padre João 24
+Carol Dartora 24
+José Rocha 21
+Pastor Diniz 21
+Marcos Aurélio Sampaio 22
+Simone Marquetto 23
+Jandira Feghali 24
+Socorro Neri 23
+João Maia 22
+Marcos Pollon 24
+Gilvan da Federal 24
+Thiago de Joaldo 22
+Delegado da Cunha 20
+Tabata Amaral 23
+Patrus Ananias 22
+Marcos Soares 23
+Felipe Francischini 23
+Fernando Rodolfo 18
+Sâmia Bomfim 18
+Zucco 24
+Renilce Nicodemos 24
+Valmir Assunção 21
+Jorge Solla 24
+Alexandre Lindenmeyer 23
+Coronel Fernanda 22
+Bibo Nunes 23
+Detinha 21
+Dilceu Sperafico 17
+Covatti Filho 23
+Adolfo Viana 21
+Bruno Ganem 24
+Duarte Jr. 23
+Ivoneide Caetano 23
+Pastor Sargento Isidório 24
+Denise Pessôa 23
+Delegada Katarina 22
+Rubens Otoni 24
+Cleber Verde 21
+Dr Benjamim 23
+Alberto Fraga 24
+Benedita da Silva 24
+Silvye Alves 24
+Murillo Gouvea 20
+Henderson Pinto 23
+Marx Beltrão 20
+Bebeto 23
+Rodrigo de Castro 23
+Alceu Moreira 22
+Bia Kicis 20
+Gilson Daniel 23
+Max Lemos 23
+Dimas Gadelha 23
+Luiz Carlos Busato 23
+Vander Loubet 23
+Coronel Chrisóstomo 24
+Juninho do Pneu 21
+Fernanda Pessoa 23
+Adriano do Baldy 24
+Renata Abreu 24
+General Girão 22
+Rosângela Reis 22
+Tadeu Veneri 22
+Roberta Roma 24
+Gabriel Nunes 24
+Silvio Costa Filho 22
+Gilberto Abramo 24
+Thiago Flores 21
+Fábio Teruel 23
+Coronel Meira 24
+Professora Luciene Cavalcante 24
+Luis Carlos Gomes 24
+Giovani Cherini 22
+Any Ortiz 23
+André Figueiredo 23
+Vinicius Gurgel 19
+Dr. Francisco 24
+Priscila Costa 22
+Silas Câmara 22
+Luiz Nishimori 24
+Luiz Lima 24
+Guilherme Uchoa 24
+Adail Filho 23
+Rui Falcão 23
+Emanuel Pinheiro Neto 22
+Dilvanda Faro 24
+Neto Carletto 24
+Lincoln Portela 20
+Weliton Prado 24
+Rogéria Santos 24
+Enfermeira Ana Paula 23
+Arlindo Chinaglia 23
+Marcelo Álvaro Antônio 20
+Gustinho Ribeiro 21
+Flávio Nogueira 22
+Paulo Guedes 23
+Maurício Carvalho 19
+Afonso Motta 23
+Gervásio Maia 23
+Vicentinho Júnior 24
+Luizianne Lins 20
+Alfredo Gaspar 23
+Murilo Galdino 23
+Erika Hilton 23
+Delegado Marcelo Freitas 22
+Vicentinho 24
+Maria Rosas 24
+Alice Portugal 23
+Capitão Augusto 23
+Bandeira de Mello 24
+Antonio Andrade 24
+Fernando Coelho Filho 22
+Nilto Tatto 24
+Daniel Freitas 22
+Marcel van Hattem 24
+Aluisio Mendes 22
+Meire Serafim 24
+Delegado Matheus Laiola 23
+Ana Pimentel 24
+Raimundo Santos 22
+Domingos Sávio 23
+Dr. Luiz Ovando 22
+Ismael Alexandrino 24
+Beto Richa 24
+Paulo Abi-Ackel 20
+Gabriel Mota 21
+Lindbergh Farias 21
+Silvia Cristina 21
+Tião Medeiros 24
+Pastor Henrique Vieira 24
+Carlos Sampaio 24
+Merlong Solano 24
+Carlos Veras 24
+Yandra Moura 24
+Tarcísio Motta 24
+Jilmar Tatto 21
+Cezinha de Madureira 22
+Idilvan Alencar 23
+Sidney Leite 23
+Saullo Vianna 24
+Kiko Celeguim 20
+Carlos Henrique Gaguim 22
+Juliana Cardoso 23
+Caio Vianna 23
+Vitor Lippi 21
+Luiz Carlos Motta 22
+Lucas Ramos 23
+Fernanda Melchionna 23
+Chico Alencar 23
+Junio Amaral 24
+Charles Fernandes 21
+Prof. Paulo Fernando 22
+Gutemberg Reis 21
+Zé Haroldo Cathedral 23
+Mário Heringer 23
+Joaquim Passarinho 24
+Carla Zambelli 24
+Jack Rocha 23
+Lafayette de Andrada 17
+Erika Kokay 24
+Marcelo Queiroz 24
+Guilherme Boulos 24
+Adriana Ventura 23
+João Daniel 24
+Renildo Calheiros 24
+Josenildo 24
+Marcos Pereira 23
+Rosana Valle 21
+Fred Linhares 21
+Professor Alcides 21
+Leonardo Monteiro 23
+André Fufuca 17
+Elmar Nascimento 18
+Márcio Jerry 21
+Átila Lira 23
+Benes Leocádio 23
+Marangoni 23
+Geovania de Sá 21
+Júnior Mano 15
+Heitor Schuch 20
+José Airton Félix Cirilo 15
+Matheus Noronha 2
+Mauricio Neves 21
+Luiz Fernando Faria 20
+Luiz Carlos Hauly 21
+Lídice da Mata 20
+Leur Lomanto Júnior 19
+Julio Lopes 19
+Zé Vitor 17
+Padovani 17
+Fabio Garcia 18
+Cobalchini 20
+Soraya Santos 20
+Marco Bertaiolli 19
+Luisa Canziani 18
+Dr. Frederico 20
+Aguinaldo Ribeiro 18
+Felipe Becari 21
+Baleia Rossi 20
+Paulo Azi 18
+Beto Pereira 17
+Eunício Oliveira 16
+Alex Manente 15
+Ismael 19
+Kim Kataguiri 18
+Euclydes Pettersen 12
+Lucio Mosquini 16
+Glauber Braga 15
+Danilo Forte 20
+Antônia Lúcia 13
+Eli Borges 17
+Eduardo Bolsonaro 14
+Gilberto Nascimento 13
+Fred Costa 15
+Arthur Lira 17
+Altineu Côrtes 14
